@@ -1,0 +1,24 @@
+REST API / REST FULL API:
+
+TASK:
+
+Create a Hybrid server:
+
+GET /users - Render HTML Document
+GET /api/users - list all users JSON
+
+GET /users - list all users
+
+Dynamic Path Parameters:
+
+GET /users/1 - list user with id 1
+GET /users/2 - list user with id 2
+
+GET /api/users/:id
+:id -> Variable | Dynamic
+
+POST /users -  create new user
+
+PATCH /users/1 - edit the user with id 1
+
+DELETE /users/1 - delete user with id 1

@@ -1,0 +1,16 @@
+Version:
+
+4.18.3
+
+4-> 1st part -> major / breaking update
+18-> 2nd part -> recommended bug fix (Security fix)
+3-> 3rd part -> minor fixes (optional)
+
+
+npm install express@4.18.3
+
+^ -> lock the first digit but update all the recommended and minor fixes.
+~ -> lock the first two digit only update the minor fixes.
+latest -> always update to latest.
+
+

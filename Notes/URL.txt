@@ -1,0 +1,25 @@
+Url: https://www.rishu-raj.dev/home
+
+protocol: https://
+domain name: www.rishu-raj.dev
+path: /home
+
+Query Paramters:
+
+Url: https://www.rishu-raj.dev/home?userId=1&a=2
+
+? - Query Paramters starts after the question mark.
+& - 
+userId,a - Query Paramter
+1,2 - Query Paramter value.
+
+npm i url - package for url handling.
+
+
+HTTP METHODS:
+
+GET - get the request from the server when we hit a url.
+POST - for forms when we want to send info to the server.
+PUT - upload some img or documents.
+PATCH - When we want to change some exsisting data. 
+DELETE - when we want to delete some data.
